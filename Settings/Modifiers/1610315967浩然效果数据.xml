@@ -8,7 +8,7 @@
 		<Duration>-1</Duration>
 		<Display>0</Display>
 		<Properties>
-			<li Name="LingAbsorbSpeed" AddP="500"/>
+			<li Name="LingAbsorbSpeed" AddP="50000"/>
 <li Name="NpcLingMaxValue" BAddP="500"/>
 <li Name="NpcLingMaxValue" BAddV="500"/>
 <li Name="NpcLingMaxValue" AddV="5000"/>
