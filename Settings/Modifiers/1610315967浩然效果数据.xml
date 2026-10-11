@@ -8,7 +8,7 @@
 		<Duration>-1</Duration>
 		<Display>0</Display>
 		<Properties>
-			<li Name="LingAbsorbSpeed" AddP="50000"/>
+			<li Name="LingAbsorbSpeed" AddP="500000"/>
 <li Name="NpcLingMaxValue" BAddP="500"/>
 <li Name="NpcLingMaxValue" BAddV="500"/>
 <li Name="NpcLingMaxValue" AddV="5000"/>
@@ -27,7 +27,7 @@
 		<Display>0</Display>
 		<Properties>
 			<li Name="NpcFight_ShieldConversionRate" AddP="100000"/>
-<li Name="LingAbsorbSpeed" AddP="100000"/>
+<li Name="LingAbsorbSpeed" AddP="1000000"/>
 <li Name="NpcFight_ShieldConversionRateAddP" AddV="100000"/>
 <li Name="NpcFight_ShieldResistanceToJin" AddV="100000"/>
 <li Name="NpcFight_ShieldResistanceToMu" AddV="100000"/>
