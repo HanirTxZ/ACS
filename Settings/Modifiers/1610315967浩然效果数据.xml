@@ -27,6 +27,7 @@
 		<Display>0</Display>
 		<Properties>
 			<li Name="NpcFight_ShieldConversionRate" AddP="100000"/>
+<li Name="LingAbsorbSpeed" AddP="100000"/>
 <li Name="NpcFight_ShieldConversionRateAddP" AddV="100000"/>
 <li Name="NpcFight_ShieldResistanceToJin" AddV="100000"/>
 <li Name="NpcFight_ShieldResistanceToMu" AddV="100000"/>
