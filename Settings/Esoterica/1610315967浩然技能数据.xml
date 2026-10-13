@@ -4,7 +4,7 @@
 		<DisplayName>浩然正气</DisplayName>
 		<Icon>res/Sprs/ui/icon_huti</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>10</Difficulty>
+		<Difficulty>5</Difficulty>
 		<Desc>通过上古秘传之法引天地之浩然正气通过全身七百二十个穴位，十二正经，奇经八脉，使自身达到天人合一的境界。</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
@@ -37,7 +37,7 @@
 		<DisplayName>君临天下</DisplayName>
 		<Icon>res/Sprs/ui/icon_shentong</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>100</Difficulty>
+		<Difficulty>5</Difficulty>
 		<Desc>以天道本源之力渡化自身，渡得无上法身，且有万界仙神庇佑。</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
@@ -53,7 +53,7 @@
 		<DisplayName>辟邪天威</DisplayName>
 		<Icon>res/Sprs/ui/icon_shenguo_tian</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>500</Difficulty>
+		<Difficulty>10</Difficulty>
 		<Desc>此招最初由辟邪一族所创，因辟邪之力霸道如斯，可以任意吞噬并转化其它灵力，辟邪族便会在与敌人战斗时用辟邪之力不断侵蚀敌人的身躯。此法以天地浩然之气代替辟邪之力，同样威力无穷。</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
@@ -69,7 +69,7 @@
 		<DisplayName>太岁</DisplayName>
 		<Icon>res/Sprs/ui/icon_shenguo_shen</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>5000</Difficulty>
+		<Difficulty>5</Difficulty>
 		<Desc>此法可以激发修行者的所有藏象之力，使得修行者远远凌驾于因果逻辑之上，一切因果谬误只需一念便可抹除。时间空间，阴阳五行任由其支配，世间万物皆为无物。习成者早已超脱生死轮回，凌驾于九天寰宇，远超尘世万象，</Desc>
 		<GLevel>God2</GLevel>
 		<Element>None</Element>
@@ -101,7 +101,7 @@
 		<DisplayName>北落师门</DisplayName>
 		<Icon>res/Sprs/ui/icon_feijianzengqiang01</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>500</Difficulty>
+		<Difficulty>10</Difficulty>
 		<Desc>据传古时有一仙人曾有幸见得辟邪王北洛的剑术，将其之兵记录于此，有剑灭万法之势。</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
@@ -117,7 +117,7 @@
 		<DisplayName>东王经</DisplayName>
 		<Icon>res/Sprs/ui/icon_jichu</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>30</Difficulty>
+		<Difficulty>4</Difficulty>
 		<Desc>此心法由当年东华帝君所著，奥妙无穷。</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
@@ -133,7 +133,7 @@
 		<DisplayName>万宝归藏</DisplayName>
 		<Icon>res/Sprs/ui/icon_jichuyujian</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>20</Difficulty>
+		<Difficulty>4</Difficulty>
 		<Desc>传自古早的御器之法，似乎出自黄帝姬轩辕之手。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>None</Element>
@@ -149,7 +149,7 @@
 		<DisplayName>天道神器</DisplayName>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>200</Difficulty>
+		<Difficulty>5</Difficulty>
 		<Desc>来自异界的炼宝之法，可以此法铸造弑神诛仙的神器。</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
@@ -165,7 +165,7 @@
 		<DisplayName>太一两仪</DisplayName>
 		<Icon>res/Sprs/ui/icon_peifang</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>200</Difficulty>
+		<Difficulty>10</Difficulty>
 		<Desc>此法最初来源于五间玄通林慕云的太一两仪阵，后来经过无数仙神的日夜苦功终于参透了其中一丝奥妙，将其汇总于此法当中。</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
@@ -181,7 +181,7 @@
 		<DisplayName>天道神丹</DisplayName>
 		<Icon>res/Sprs/ui/icon_jichuliandan</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>200</Difficulty>
+		<Difficulty>5</Difficulty>
 		<Desc>来自异界的炼丹之法，每想到此法，神识便会被带入一处未知的仙境，仙境中晴雪喷艳，树木蓊翳，令人神往。</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
